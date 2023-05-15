@@ -1,0 +1,95 @@
+header{
+    width: 100%;
+    background-color: #CE5252;
+  }
+  
+  .testa{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  
+  .testa h1{
+    font-size: 30pt;
+    padding-left: 50px;
+  }
+  
+  .testa h2{
+    font-size: 50pt;
+  }
+  
+  .tasti nav ul{
+    list-style: none;
+  }
+  
+  .tasti a{
+    display: inline-flex;
+    font-size: 20pt;
+    text-decoration: none;
+    color: #fff;
+    margin-right: 100px;
+  }
+
+  main h1{
+    text-align: center;
+    font-size: 40pt;
+    margin-top: 50px;
+  }
+
+  main p{
+    text-align: center;
+    font-size: 25pt;
+    padding: 20px;
+  }
+
+  .para{
+    background-color: #CE5252;
+    max-width: 800px;
+    border-radius: 30px;
+    margin: auto;
+  }
+
+
+  footer{
+    width: 100%;
+    background-color: #CE5252;
+    margin-top: 20px;
+  }
+  
+  .foot{
+    display: block
+  }
+  
+  .tasti2{
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .tasti3{
+    padding: 20px;
+    text-align: center;
+    justify-content: space-between;
+  }
+  
+  .tasti2 nav ul{
+    list-style: none;
+  }
+  
+  .tasti2 a{
+    font-size: 20pt;
+    text-decoration: none;
+    color: #fff;
+    margin-right: 100px;
+  }
+  
+  .tasti3 nav ul{
+    list-style: none;
+  }
+  
+  .tasti3 a{
+    font-size: 20pt;
+    text-decoration: none;
+    color: #fff;
+    margin-right: 100px;
+  }
